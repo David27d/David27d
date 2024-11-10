@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @David27d
-- 👀 I’m interested in projects which are coupling live streams of EEG brain data, which allow a remote operator to send data inot the subjects mind. I'm a victim ofnthese technologies whose tryong to find someone who can help prove this is happening.
+- 👀 I’m interested in projects which are coupling live streams of EEG brain data, which allow a remote operator to send data inot the subjects mind. I'm a victim of these technologies whose tryng to find someone who can help prove this is happening.
 - 🌱 I’m currently learning about cognitive surveillance technologies.
 - 💞️ I’m looking to collaborate on any project remotely sending data into a bioloigcal human. 
 - 📫 How to reach me. david27d@gmail.com
